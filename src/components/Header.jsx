@@ -10,7 +10,7 @@ function Header() {
    <div style={{width:"100%",height:"10vh"}}>
       <Navbar className="bg-warning">
         <Container>
-          <Navbar.Brand className='text-light'>  <i className="fa-solid fa-book-open fs-3 fa-fade"></i><Link to={"/"}style={{textDecoration:"none",color:'white'}}> MY BOOK COLLECTION</Link></Navbar.Brand>
+          <Navbar.Brand className='text-light'>  <i className="fa-solid fa-book-open fs-3 fa-fade"></i> MY BOOK COLLECTION</Navbar.Brand>
         </Container>
       </Navbar>
    </div>
